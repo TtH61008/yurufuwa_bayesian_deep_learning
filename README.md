@@ -1,0 +1,2 @@
+# yurufuwa_bayesian_deep_learning
+ゆるーくベイズ深層学習に触れてみる
